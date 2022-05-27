@@ -40,7 +40,7 @@ export const NamePlayers = () => {
           <input name='player2' onChange={handlerChangePlayer} value={players.player2} type="text" placeholder='Player 2' />
 
           <div style={{width: "100%"}}>
-            <button onClick={handlerStartGame} className='btnStartGame'>
+            <button className='btnStartGame' onClick={handlerStartGame} >
               Iniciar Juego
             </button>
           </div>

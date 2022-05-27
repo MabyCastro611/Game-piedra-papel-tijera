@@ -1,5 +1,5 @@
 .container {
-  background-color: #FFEFEC;
+  background-color: #E6FFF9;
   height: 100vh;
   display: flex;
   width: 100%;
@@ -13,7 +13,7 @@
   align-items: center;
   justify-content: center;  
   width: 100%;
-  background-color: aqua;
+  background-color: #E6FFF9;
   height: 80%;
 }
 
@@ -23,7 +23,7 @@
   align-items: center;
   justify-content: center;  
   width: 100%;
-  background-color: aqua;
+  background-color: #E6FFF9;
   height: 80%;
 }
 
@@ -48,13 +48,13 @@
 
 .btnCenterStart {
   display: flex;
-  background-color: black;
+  background-color: #E6FFF9;
   align-items: center;
   height: 80%;
 }
 
 .boxPlayer {
-  background-color: red;
+  background-color: #FFF6FF;
   border-radius: 10px;
 }
 
@@ -65,7 +65,7 @@
 
 .card {
   cursor: pointer;
-  background-color: blueviolet;
+  
 }
 
 

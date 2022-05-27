@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #FFEFEC;
+  background-color: #E6FFF9;
   height: 100vh;
   flex-direction: column;
 }
@@ -18,7 +18,7 @@
 }
 
 .menuName {
-  background-color: #bcbbbb;
+  background-color: #FFF6FF;
   height: 200px;
   width: 250px;
   border-radius: 10px;
