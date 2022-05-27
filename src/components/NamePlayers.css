@@ -1,0 +1,38 @@
+.container-menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFEFEC;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.menuNameBox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.menuName {
+  background-color: #bcbbbb;
+  height: 200px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+input {
+  margin-top: 10px;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.btnStartGame {
+  margin-top: 10px;
+  width: 100%;
+  border-radius: 5px;
+  padding: 5px;
+}
